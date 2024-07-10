@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background: url('https://via.placeholder.com/1200x600') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.hero-section h2 {
+    margin-top: 0;
+    font-size: 3rem;
+}
+
+#features i, #services i {
+    color: #007bff;
+}
+
+#products img, #partners img {
+    max-width: 100%;
+}
+
+footer {
+    background-color: #007bff;
+}
+
+.carousel-item img {
+    height: 600px;
+    object-fit: cover;
+}
